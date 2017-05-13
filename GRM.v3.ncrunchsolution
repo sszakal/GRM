@@ -1,0 +1,14 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>False</AllowParallelTestExecution>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+  <EngineModes>
+    <EngineMode>
+      <Name>Run all tests automatically</Name>
+      <Settings>
+        <AutoPinNewTests>True</AutoPinNewTests>
+      </Settings>
+    </EngineMode>
+  </EngineModes>
+</SolutionConfiguration>
